@@ -12,7 +12,7 @@
     </a>
 </div>
 
-Nesse repositório se encontra o bot de rádio do Discord [#SUN Community](https://discord.gg/c8Y5QFy4Qa), o Discord para a comunidade da Sunlight Esports.
+Nesse repositório se encontra o bot de rádio do Discord [#SUN Community](https://discord.gg/c8Y5QFy4Qa), o Discord da comunidade da Sunlight Esports.
 
 Esse bot foi criado para servir seu propósito de maneira fácil e sem dor de cabeça para a pessoa que apenas quer ter uma rádio tocando de fundo no seu Discord. A SUN não precisa de muitas rádios e por isso o bot já está configurado com rádios de Lofi ([Lofi Girl](https://www.youtube.com/watch?v=5qap5aO4i9A)) e Progressive House ([Monstercat Silk](https://www.youtube.com/watch?v=d8Oc90QevaI)), porém é fácil trocar, remover e adicionar mais rádios. Para evitar conflito com outros bots ele também conta com um comando que altera e salva um prefixo especificado.
 

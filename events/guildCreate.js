@@ -6,7 +6,7 @@ module.exports = {
     execute(guild, client) {
         client.servers.ensure(guild.id, {
             guildID: guild.id,
-            prefix: process.env.Prefix,
+            prefix: process.env.PREFIX,
         })
 
         console.log(

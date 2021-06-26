@@ -52,4 +52,4 @@ readdir('./commands/', (e, files) => {
     console.log(greenBright('Comandos carregados.'))
 })
 
-client.login(process.env.DiscordToken)
+client.login(process.env.DISCORD_TOKEN)

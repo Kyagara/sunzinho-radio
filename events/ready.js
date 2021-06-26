@@ -27,7 +27,7 @@ module.exports = {
         })
 
         function StreamsRecursions() {
-            console.log('Começando recursão.')
+            console.log('Iniciando recursão.')
 
             const guilds = client.servers.fetchEverything()
 

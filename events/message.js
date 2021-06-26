@@ -6,7 +6,7 @@ module.exports = {
 
         const guild = client.servers.ensure(message.guild.id, {
             guildID: message.guild.id,
-            prefix: process.env.Prefix,
+            prefix: process.env.PREFIX,
         })
 
         if (!message.content.startsWith(guild.prefix)) return
